@@ -95,7 +95,8 @@ h1{
   justify-content: space-evenly;
   text-align: center;
   width: 100%;
-  margin: 7rem auto;
+  margin: 3rem auto;
+  margin-bottom: 17rem;
   padding: 1rem;
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.2);
