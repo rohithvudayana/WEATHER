@@ -8,7 +8,7 @@ function App() {
 
   
   const display_err = (error_msg) => {
-    window.alert(error_msg);
+    window.alert(error_msg)
   }
 
   const searchLocation = (event) => {
